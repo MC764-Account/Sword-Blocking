@@ -1,0 +1,1 @@
+execute as @a if items entity @s weapon.mainhand #minecraft:swords run item modify entity @s weapon.mainhand {function:set_components, components:{"minecraft:blocks_attacks":{disable_cooldown_scale:0, damage_reductions:[{base:0,factor:0.5}],item_damage:{threshold:0,base:0,factor:0},block_sound:"minecraft:entity.player.hurt"}}}
