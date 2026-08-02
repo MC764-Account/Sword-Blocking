@@ -16,8 +16,8 @@ Supports multiplayer servers (server-side installation required)
 
 ## Compatibility
 
-Minecraft versions: 26.1.x ~ 26.2 
-_(Support for 1.21 and above will be added later)_
+Minecraft versions: 1.21.5 ~ 26.2 
+_(Not support 1.21.4 and older version because the technology no support it.)_
 
 ## Installation
 
