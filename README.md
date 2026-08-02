@@ -2,9 +2,9 @@
 
 Let your sword block damage like a shield — just like in Minecraft before version 15w33c.
 # To download this mod, it's recommended to head over here:
-- ## https://modrinth.com/project/i6hLgIsP
+- [https://modrinth.com/project/i6hLgIsP](https://modrinth.com/mod/mcqmh-sword-blocking/changelog)
 - There are more resources and logs here.
-- ## This GitHub page is only for providing the latest source code and sending the latest official version for use.
+- This GitHub page is only for providing the latest source code and sending the latest official version for use.
 ## Description
 
 This mod brings back the classic sword blocking mechanic from before Minecraft 1.9.
