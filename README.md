@@ -1,7 +1,8 @@
 <h1>Sword Blocking</h1>
 
 Let your sword block damage like a shield — just like in Minecraft before version 15w33c.
-# To download this mod, it's recommended to head over here:https://modrinth.com/project/i6hLgIsP
+# To download this mod, it's recommended to head over here:
+- ## https://modrinth.com/project/i6hLgIsP
 - There are more resources and logs here.
 - ## This GitHub page is only for providing the latest source code and sending the latest official version for use.
 ## Description
